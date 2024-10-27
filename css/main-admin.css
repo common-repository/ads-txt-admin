@@ -1,0 +1,973 @@
+/* line 3, sass/main-admin.scss */
+.um-ads-txt {
+  width: 1200px;
+  /*!
+   * Bootstrap v3.3.7 (http://getbootstrap.com)
+   * Copyright 2011-2017 Twitter, Inc.
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+   */
+  /*!
+   * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=93f5ea1c484dd787a36f40ab6583bb15)
+   * Config saved to config.json and https://gist.github.com/93f5ea1c484dd787a36f40ab6583bb15
+   */
+  /*!
+* Bootstrap v3.3.7 (http://getbootstrap.com)
+* Copyright 2011-2016 Twitter, Inc.
+* Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+*/
+  /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+  font-family: Arial, 'Helvetica CY', 'Nimbus Sans L', sans-serif;
+}
+/* line 19, sass/main-admin.scss */
+.um-ads-txt h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+/* line 24, sass/main-admin.scss */
+.um-ads-txt img {
+  border: 0;
+}
+/* line 28, sass/main-admin.scss */
+.um-ads-txt hr {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+/* line 35, sass/main-admin.scss */
+.um-ads-txt pre {
+  overflow: auto;
+}
+/* line 39, sass/main-admin.scss */
+.um-ads-txt button, .um-ads-txt input, .um-ads-txt optgroup, .um-ads-txt select, .um-ads-txt textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+/* line 45, sass/main-admin.scss */
+.um-ads-txt button {
+  overflow: visible;
+}
+/* line 49, sass/main-admin.scss */
+.um-ads-txt button, .um-ads-txt select {
+  text-transform: none;
+}
+/* line 53, sass/main-admin.scss */
+.um-ads-txt button, .um-ads-txt html input[type="button"], .um-ads-txt input[type="reset"], .um-ads-txt input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+/* line 58, sass/main-admin.scss */
+.um-ads-txt button[disabled], .um-ads-txt html input[disabled] {
+  cursor: default;
+}
+/* line 62, sass/main-admin.scss */
+.um-ads-txt button::-moz-focus-inner, .um-ads-txt input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+/* line 67, sass/main-admin.scss */
+.um-ads-txt input {
+  line-height: normal;
+}
+/* line 71, sass/main-admin.scss */
+.um-ads-txt input[type="checkbox"], .um-ads-txt input[type="radio"] {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+}
+/* line 78, sass/main-admin.scss */
+.um-ads-txt input[type="number"]::-webkit-inner-spin-button, .um-ads-txt input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+/* line 82, sass/main-admin.scss */
+.um-ads-txt input[type="search"] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+/* line 89, sass/main-admin.scss */
+.um-ads-txt input[type="search"]::-webkit-search-cancel-button, .um-ads-txt input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+/* line 93, sass/main-admin.scss */
+.um-ads-txt fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+/* line 99, sass/main-admin.scss */
+.um-ads-txt legend {
+  border: 0;
+  padding: 0;
+}
+/* line 104, sass/main-admin.scss */
+.um-ads-txt textarea {
+  overflow: auto;
+}
+/* line 108, sass/main-admin.scss */
+.um-ads-txt optgroup {
+  font-weight: bold;
+}
+/* line 112, sass/main-admin.scss */
+.um-ads-txt input, .um-ads-txt button, .um-ads-txt select, .um-ads-txt textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+/* line 118, sass/main-admin.scss */
+.um-ads-txt a {
+  color: #337ab7;
+  text-decoration: none;
+}
+/* line 123, sass/main-admin.scss */
+.um-ads-txt a:hover, .um-ads-txt a:focus {
+  color: #23527c;
+  text-decoration: underline;
+}
+/* line 128, sass/main-admin.scss */
+.um-ads-txt a:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+/* line 132, sass/main-admin.scss */
+.um-ads-txt img {
+  vertical-align: middle;
+}
+/* line 136, sass/main-admin.scss */
+.um-ads-txt .img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+/* line 142, sass/main-admin.scss */
+.um-ads-txt [role="button"] {
+  cursor: pointer;
+}
+/* line 146, sass/main-admin.scss */
+.um-ads-txt .container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 768px) {
+  /* line 154, sass/main-admin.scss */
+  .um-ads-txt .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  /* line 160, sass/main-admin.scss */
+  .um-ads-txt .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  /* line 166, sass/main-admin.scss */
+  .um-ads-txt .container {
+    width: 1170px;
+  }
+}
+/* line 171, sass/main-admin.scss */
+.um-ads-txt .container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+/* line 178, sass/main-admin.scss */
+.um-ads-txt .row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+/* line 183, sass/main-admin.scss */
+.um-ads-txt .col-xs-1, .um-ads-txt .col-sm-1, .um-ads-txt .col-md-1, .um-ads-txt .col-lg-1, .um-ads-txt .col-xs-2, .um-ads-txt .col-sm-2, .um-ads-txt .col-md-2, .um-ads-txt .col-lg-2, .um-ads-txt .col-xs-3, .um-ads-txt .col-sm-3, .um-ads-txt .col-md-3, .um-ads-txt .col-lg-3, .um-ads-txt .col-xs-4, .um-ads-txt .col-sm-4, .um-ads-txt .col-md-4, .um-ads-txt .col-lg-4, .um-ads-txt .col-xs-5, .um-ads-txt .col-sm-5, .um-ads-txt .col-md-5, .um-ads-txt .col-lg-5, .um-ads-txt .col-xs-6, .um-ads-txt .col-sm-6, .um-ads-txt .col-md-6, .um-ads-txt .col-lg-6, .um-ads-txt .col-xs-7, .um-ads-txt .col-sm-7, .um-ads-txt .col-md-7, .um-ads-txt .col-lg-7, .um-ads-txt .col-xs-8, .um-ads-txt .col-sm-8, .um-ads-txt .col-md-8, .um-ads-txt .col-lg-8, .um-ads-txt .col-xs-9, .um-ads-txt .col-sm-9, .um-ads-txt .col-md-9, .um-ads-txt .col-lg-9, .um-ads-txt .col-xs-10, .um-ads-txt .col-sm-10, .um-ads-txt .col-md-10, .um-ads-txt .col-lg-10, .um-ads-txt .col-xs-11, .um-ads-txt .col-sm-11, .um-ads-txt .col-md-11, .um-ads-txt .col-lg-11, .um-ads-txt .col-xs-12, .um-ads-txt .col-sm-12, .um-ads-txt .col-md-12, .um-ads-txt .col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+/* line 190, sass/main-admin.scss */
+.um-ads-txt .col-sm-1, .um-ads-txt .col-sm-2, .um-ads-txt .col-sm-3, .um-ads-txt .col-sm-4, .um-ads-txt .col-sm-5, .um-ads-txt .col-sm-6, .um-ads-txt .col-sm-7, .um-ads-txt .col-sm-8, .um-ads-txt .col-sm-9, .um-ads-txt .col-sm-10, .um-ads-txt .col-sm-11, .um-ads-txt .col-sm-12 {
+  float: left;
+}
+/* line 193, sass/main-admin.scss */
+.um-ads-txt .col-sm-12 {
+  width: 100%;
+}
+/* line 196, sass/main-admin.scss */
+.um-ads-txt .col-sm-11 {
+  width: 91.66667%;
+}
+/* line 199, sass/main-admin.scss */
+.um-ads-txt .col-sm-10 {
+  width: 83.33333%;
+}
+/* line 202, sass/main-admin.scss */
+.um-ads-txt .col-sm-9 {
+  width: 75%;
+}
+/* line 205, sass/main-admin.scss */
+.um-ads-txt .col-sm-8 {
+  width: 66.66667%;
+}
+/* line 208, sass/main-admin.scss */
+.um-ads-txt .col-sm-7 {
+  width: 58.33333%;
+}
+/* line 211, sass/main-admin.scss */
+.um-ads-txt .col-sm-6 {
+  width: 50%;
+}
+/* line 214, sass/main-admin.scss */
+.um-ads-txt .col-sm-5 {
+  width: 41.66667%;
+}
+/* line 217, sass/main-admin.scss */
+.um-ads-txt .col-sm-4 {
+  width: 33.33333%;
+}
+/* line 220, sass/main-admin.scss */
+.um-ads-txt .col-sm-3 {
+  width: 25%;
+}
+/* line 223, sass/main-admin.scss */
+.um-ads-txt .col-sm-2 {
+  width: 16.66667%;
+}
+/* line 226, sass/main-admin.scss */
+.um-ads-txt .col-sm-1 {
+  width: 8.33333%;
+}
+/* line 229, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-12 {
+  right: 100%;
+}
+/* line 232, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-11 {
+  right: 91.66667%;
+}
+/* line 235, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-10 {
+  right: 83.33333%;
+}
+/* line 238, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-9 {
+  right: 75%;
+}
+/* line 241, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-8 {
+  right: 66.66667%;
+}
+/* line 244, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-7 {
+  right: 58.33333%;
+}
+/* line 247, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-6 {
+  right: 50%;
+}
+/* line 250, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-5 {
+  right: 41.66667%;
+}
+/* line 253, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-4 {
+  right: 33.33333%;
+}
+/* line 256, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-3 {
+  right: 25%;
+}
+/* line 259, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-2 {
+  right: 16.66667%;
+}
+/* line 262, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-1 {
+  right: 8.33333%;
+}
+/* line 265, sass/main-admin.scss */
+.um-ads-txt .col-sm-pull-0 {
+  right: auto;
+}
+/* line 268, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-12 {
+  left: 100%;
+}
+/* line 271, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-11 {
+  left: 91.66667%;
+}
+/* line 274, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-10 {
+  left: 83.33333%;
+}
+/* line 277, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-9 {
+  left: 75%;
+}
+/* line 280, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-8 {
+  left: 66.66667%;
+}
+/* line 283, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-7 {
+  left: 58.33333%;
+}
+/* line 286, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-6 {
+  left: 50%;
+}
+/* line 289, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-5 {
+  left: 41.66667%;
+}
+/* line 292, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-4 {
+  left: 33.33333%;
+}
+/* line 295, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-3 {
+  left: 25%;
+}
+/* line 298, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-2 {
+  left: 16.66667%;
+}
+/* line 301, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-1 {
+  left: 8.33333%;
+}
+/* line 304, sass/main-admin.scss */
+.um-ads-txt .col-sm-push-0 {
+  left: auto;
+}
+/* line 307, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-12 {
+  margin-left: 100%;
+}
+/* line 310, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-11 {
+  margin-left: 91.66667%;
+}
+/* line 313, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-10 {
+  margin-left: 83.33333%;
+}
+/* line 316, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-9 {
+  margin-left: 75%;
+}
+/* line 319, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-8 {
+  margin-left: 66.66667%;
+}
+/* line 322, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-7 {
+  margin-left: 58.33333%;
+}
+/* line 325, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-6 {
+  margin-left: 50%;
+}
+/* line 328, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-5 {
+  margin-left: 41.66667%;
+}
+/* line 331, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-4 {
+  margin-left: 33.33333%;
+}
+/* line 334, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-3 {
+  margin-left: 25%;
+}
+/* line 337, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-2 {
+  margin-left: 16.66667%;
+}
+/* line 340, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-1 {
+  margin-left: 8.33333%;
+}
+/* line 343, sass/main-admin.scss */
+.um-ads-txt .col-sm-offset-0 {
+  margin-left: 0;
+}
+/* line 347, sass/main-admin.scss */
+.um-ads-txt label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+/* line 354, sass/main-admin.scss */
+.um-ads-txt input[type="search"] {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* line 360, sass/main-admin.scss */
+.um-ads-txt input[type="radio"], .um-ads-txt input[type="checkbox"] {
+  margin: 4px 0 0;
+  margin-top: 1px \9 ;
+  line-height: normal;
+}
+/* line 367, sass/main-admin.scss */
+.um-ads-txt input[type="file"] {
+  display: block;
+}
+/* line 371, sass/main-admin.scss */
+.um-ads-txt input[type="range"] {
+  display: block;
+  width: 100%;
+}
+/* line 376, sass/main-admin.scss */
+.um-ads-txt select[multiple], .um-ads-txt select[size] {
+  height: auto;
+}
+/* line 380, sass/main-admin.scss */
+.um-ads-txt input[type="file"]:focus, .um-ads-txt input[type="radio"]:focus, .um-ads-txt input[type="checkbox"]:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+/* line 385, sass/main-admin.scss */
+.um-ads-txt output {
+  display: block;
+  padding-top: 7px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+}
+/* line 393, sass/main-admin.scss */
+.um-ads-txt .form-control {
+  display: inline-block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+/* line 412, sass/main-admin.scss */
+.um-ads-txt .form-control:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+/* line 419, sass/main-admin.scss */
+.um-ads-txt .form-control::-moz-placeholder {
+  color: #999;
+  opacity: 1;
+}
+/* line 424, sass/main-admin.scss */
+.um-ads-txt .form-control:-ms-input-placeholder {
+  color: #999;
+}
+/* line 428, sass/main-admin.scss */
+.um-ads-txt .form-control::-webkit-input-placeholder {
+  color: #999;
+}
+/* line 432, sass/main-admin.scss */
+.um-ads-txt .form-control::-ms-expand {
+  border: 0;
+  background-color: transparent;
+}
+/* line 437, sass/main-admin.scss */
+.um-ads-txt .form-control[disabled], .um-ads-txt .form-control[readonly], .um-ads-txt fieldset[disabled] .form-control {
+  background-color: #eee;
+  opacity: 1;
+}
+/* line 442, sass/main-admin.scss */
+.um-ads-txt .form-control[disabled], .um-ads-txt fieldset[disabled] .form-control {
+  cursor: not-allowed;
+}
+/* line 446, sass/main-admin.scss */
+.um-ads-txt textarea.form-control {
+  height: auto;
+}
+/* line 450, sass/main-admin.scss */
+.um-ads-txt input[type="search"] {
+  -webkit-appearance: none;
+}
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  /* line 455, sass/main-admin.scss */
+  .um-ads-txt input[type="date"].form-control, .um-ads-txt input[type="time"].form-control, .um-ads-txt input[type="datetime-local"].form-control, .um-ads-txt input[type="month"].form-control {
+    line-height: 34px;
+  }
+  /* line 458, sass/main-admin.scss */
+  .um-ads-txt input[type="date"].input-sm, .um-ads-txt input[type="time"].input-sm, .um-ads-txt input[type="datetime-local"].input-sm, .um-ads-txt input[type="month"].input-sm, .um-ads-txt .input-group-sm input[type="date"], .um-ads-txt .input-group-sm input[type="time"], .um-ads-txt .input-group-sm input[type="datetime-local"], .um-ads-txt .input-group-sm input[type="month"] {
+    line-height: 30px;
+  }
+  /* line 461, sass/main-admin.scss */
+  .um-ads-txt input[type="date"].input-lg, .um-ads-txt input[type="time"].input-lg, .um-ads-txt input[type="datetime-local"].input-lg, .um-ads-txt input[type="month"].input-lg, .um-ads-txt .input-group-lg input[type="date"], .um-ads-txt .input-group-lg input[type="time"], .um-ads-txt .input-group-lg input[type="datetime-local"], .um-ads-txt .input-group-lg input[type="month"] {
+    line-height: 46px;
+  }
+}
+/* line 466, sass/main-admin.scss */
+.um-ads-txt .form-group {
+  margin-bottom: 15px;
+}
+/* line 470, sass/main-admin.scss */
+.um-ads-txt .radio, .um-ads-txt .checkbox {
+  position: relative;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/* line 477, sass/main-admin.scss */
+.um-ads-txt .radio label, .um-ads-txt .checkbox label {
+  min-height: 20px;
+  padding-left: 20px;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+/* line 484, sass/main-admin.scss */
+.um-ads-txt .radio input[type="radio"], .um-ads-txt .radio-inline input[type="radio"], .um-ads-txt .checkbox input[type="checkbox"], .um-ads-txt .checkbox-inline input[type="checkbox"] {
+  position: absolute;
+  margin-left: -20px;
+  margin-top: 4px \9 ;
+}
+/* line 490, sass/main-admin.scss */
+.um-ads-txt input[type="radio"][disabled], .um-ads-txt input[type="checkbox"][disabled], .um-ads-txt input[type="radio"].disabled, .um-ads-txt input[type="checkbox"].disabled, .um-ads-txt fieldset[disabled] input[type="radio"], .um-ads-txt fieldset[disabled] input[type="checkbox"] {
+  cursor: not-allowed;
+}
+/* line 494, sass/main-admin.scss */
+.um-ads-txt select.input-sm {
+  height: 30px;
+  line-height: 30px;
+}
+/* line 499, sass/main-admin.scss */
+.um-ads-txt textarea.input-sm, .um-ads-txt select[multiple].input-sm {
+  height: auto;
+}
+/* line 503, sass/main-admin.scss */
+.um-ads-txt .clearfix:before, .um-ads-txt .clearfix:after, .um-ads-txt .container:before, .um-ads-txt .container:after, .um-ads-txt .container-fluid:before, .um-ads-txt .container-fluid:after, .um-ads-txt .row:before, .um-ads-txt .row:after, .um-ads-txt .form-horizontal .form-group:before, .um-ads-txt .form-horizontal .form-group:after {
+  content: " ";
+  display: table;
+}
+/* line 508, sass/main-admin.scss */
+.um-ads-txt .clearfix:after, .um-ads-txt .container:after, .um-ads-txt .container-fluid:after, .um-ads-txt .row:after, .um-ads-txt .form-horizontal .form-group:after {
+  clear: both;
+}
+/* line 512, sass/main-admin.scss */
+.um-ads-txt .center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* line 518, sass/main-admin.scss */
+.um-ads-txt .pull-right {
+  float: right !important;
+}
+/* line 522, sass/main-admin.scss */
+.um-ads-txt .pull-left {
+  float: left !important;
+}
+/* line 526, sass/main-admin.scss */
+.um-ads-txt .hide {
+  display: none !important;
+}
+/* line 530, sass/main-admin.scss */
+.um-ads-txt .show {
+  display: block !important;
+}
+/* line 534, sass/main-admin.scss */
+.um-ads-txt .invisible {
+  visibility: hidden;
+}
+/* line 538, sass/main-admin.scss */
+.um-ads-txt .text-hide {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+/* line 546, sass/main-admin.scss */
+.um-ads-txt .hidden {
+  display: none !important;
+}
+/* line 550, sass/main-admin.scss */
+.um-ads-txt .affix {
+  position: fixed;
+}
+@-ms-viewport {
+  /* line 3, sass/main-admin.scss */
+  .um-ads-txt {
+    width: device-width;
+  }
+}
+/* line 558, sass/main-admin.scss */
+.um-ads-txt .visible-xs, .um-ads-txt .visible-sm, .um-ads-txt .visible-md, .um-ads-txt .visible-lg {
+  display: none !important;
+}
+/* line 562, sass/main-admin.scss */
+.um-ads-txt .visible-xs-block, .um-ads-txt .visible-xs-inline, .um-ads-txt .visible-xs-inline-block, .um-ads-txt .visible-sm-block, .um-ads-txt .visible-sm-inline, .um-ads-txt .visible-sm-inline-block, .um-ads-txt .visible-md-block, .um-ads-txt .visible-md-inline, .um-ads-txt .visible-md-inline-block, .um-ads-txt .visible-lg-block, .um-ads-txt .visible-lg-inline, .um-ads-txt .visible-lg-inline-block {
+  display: none !important;
+}
+@media (max-width: 767px) {
+  /* line 567, sass/main-admin.scss */
+  .um-ads-txt .visible-xs {
+    display: block !important;
+  }
+  /* line 570, sass/main-admin.scss */
+  .um-ads-txt table.visible-xs {
+    display: table !important;
+  }
+  /* line 573, sass/main-admin.scss */
+  .um-ads-txt tr.visible-xs {
+    display: table-row !important;
+  }
+  /* line 576, sass/main-admin.scss */
+  .um-ads-txt th.visible-xs, .um-ads-txt td.visible-xs {
+    display: table-cell !important;
+  }
+}
+@media (max-width: 767px) {
+  /* line 582, sass/main-admin.scss */
+  .um-ads-txt .visible-xs-block {
+    display: block !important;
+  }
+}
+@media (max-width: 767px) {
+  /* line 588, sass/main-admin.scss */
+  .um-ads-txt .visible-xs-inline {
+    display: inline !important;
+  }
+}
+@media (max-width: 767px) {
+  /* line 594, sass/main-admin.scss */
+  .um-ads-txt .visible-xs-inline-block {
+    display: inline-block !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 600, sass/main-admin.scss */
+  .um-ads-txt .visible-sm {
+    display: block !important;
+  }
+  /* line 603, sass/main-admin.scss */
+  .um-ads-txt table.visible-sm {
+    display: table !important;
+  }
+  /* line 606, sass/main-admin.scss */
+  .um-ads-txt tr.visible-sm {
+    display: table-row !important;
+  }
+  /* line 609, sass/main-admin.scss */
+  .um-ads-txt th.visible-sm, .um-ads-txt td.visible-sm {
+    display: table-cell !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 615, sass/main-admin.scss */
+  .um-ads-txt .visible-sm-block {
+    display: block !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 621, sass/main-admin.scss */
+  .um-ads-txt .visible-sm-inline {
+    display: inline !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 627, sass/main-admin.scss */
+  .um-ads-txt .visible-sm-inline-block {
+    display: inline-block !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* line 633, sass/main-admin.scss */
+  .um-ads-txt .visible-md {
+    display: block !important;
+  }
+  /* line 636, sass/main-admin.scss */
+  .um-ads-txt table.visible-md {
+    display: table !important;
+  }
+  /* line 639, sass/main-admin.scss */
+  .um-ads-txt tr.visible-md {
+    display: table-row !important;
+  }
+  /* line 642, sass/main-admin.scss */
+  .um-ads-txt th.visible-md, .um-ads-txt td.visible-md {
+    display: table-cell !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* line 648, sass/main-admin.scss */
+  .um-ads-txt .visible-md-block {
+    display: block !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* line 654, sass/main-admin.scss */
+  .um-ads-txt .visible-md-inline {
+    display: inline !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* line 660, sass/main-admin.scss */
+  .um-ads-txt .visible-md-inline-block {
+    display: inline-block !important;
+  }
+}
+@media (min-width: 1200px) {
+  /* line 666, sass/main-admin.scss */
+  .um-ads-txt .visible-lg {
+    display: block !important;
+  }
+  /* line 669, sass/main-admin.scss */
+  .um-ads-txt table.visible-lg {
+    display: table !important;
+  }
+  /* line 672, sass/main-admin.scss */
+  .um-ads-txt tr.visible-lg {
+    display: table-row !important;
+  }
+  /* line 675, sass/main-admin.scss */
+  .um-ads-txt th.visible-lg, .um-ads-txt td.visible-lg {
+    display: table-cell !important;
+  }
+}
+@media (min-width: 1200px) {
+  /* line 681, sass/main-admin.scss */
+  .um-ads-txt .visible-lg-block {
+    display: block !important;
+  }
+}
+@media (min-width: 1200px) {
+  /* line 687, sass/main-admin.scss */
+  .um-ads-txt .visible-lg-inline {
+    display: inline !important;
+  }
+}
+@media (min-width: 1200px) {
+  /* line 693, sass/main-admin.scss */
+  .um-ads-txt .visible-lg-inline-block {
+    display: inline-block !important;
+  }
+}
+@media (max-width: 767px) {
+  /* line 699, sass/main-admin.scss */
+  .um-ads-txt .hidden-xs {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 705, sass/main-admin.scss */
+  .um-ads-txt .hidden-sm {
+    display: none !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* line 711, sass/main-admin.scss */
+  .um-ads-txt .hidden-md {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  /* line 717, sass/main-admin.scss */
+  .um-ads-txt .hidden-lg {
+    display: none !important;
+  }
+}
+/* line 725, sass/main-admin.scss */
+.um-ads-txt h1 {
+  font-size: 36px;
+}
+/* line 728, sass/main-admin.scss */
+.um-ads-txt .header-row {
+  margin: 15px 0;
+}
+/* line 731, sass/main-admin.scss */
+.um-ads-txt select.form-control {
+  width: 85%;
+}
+/* line 734, sass/main-admin.scss */
+.um-ads-txt .preview-text {
+  padding-left: 15px;
+  position: absolute;
+  overflow: hidden;
+  color: #fff;
+  font-weight: bold;
+  width: 285px;
+  font-size: 15px;
+}
+/* line 744, sass/main-admin.scss */
+.um-ads-txt label {
+  font-size: 15px;
+}
+/* line 746, sass/main-admin.scss */
+.um-ads-txt label small {
+  display: block;
+  font-weight: normal;
+  color: #4D4D4D;
+  font-size: 13px;
+}
+/* line 754, sass/main-admin.scss */
+.um-ads-txt .um-footer-right {
+  float: right;
+  text-align: right;
+  color: #5c5c5c;
+  font-style: italic;
+}
+/* line 761, sass/main-admin.scss */
+.um-ads-txt .um-warning-message {
+  color: #ff0000;
+}
+/* line 765, sass/main-admin.scss */
+.um-ads-txt .table-header-row {
+  padding-bottom: 10px;
+}
+/* line 766, sass/main-admin.scss */
+.um-ads-txt .table-header-row .col-sm-2 {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+/* line 770, sass/main-admin.scss */
+.um-ads-txt .table-header-row .col-sm-2 label {
+  width: 85%;
+  vertical-align: top;
+}
+/* line 775, sass/main-admin.scss */
+.um-ads-txt .table-header-row .col-sm-2 .um-tooltip {
+  vertical-align: top;
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  padding: 0;
+  text-align: center;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  transition: all .1s linear;
+  font-size: 8px;
+  width: 16px;
+  height: 16px;
+}
+/* line 790, sass/main-admin.scss */
+.um-ads-txt .table-header-row .col-sm-2 .um-tooltip:hover {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+/* line 795, sass/main-admin.scss */
+.um-ads-txt .table-header-row .col-sm-2 .um-tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+/* line 800, sass/main-admin.scss */
+.um-ads-txt .table-header-row .col-sm-2 .um-tooltip .tooltiptext {
+  font-size: 12px;
+  visibility: hidden;
+  width: 400px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  box-sizing: border-box;
+  top: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity .3s ease-in-out;
+}
+/* line 826, sass/main-admin.scss */
+.um-ads-txt .table-fields-row {
+  margin-bottom: 10px;
+}
+/* line 829, sass/main-admin.scss */
+.um-ads-txt .table-fields-row .col-sm-2 {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+/* line 834, sass/main-admin.scss */
+.um-ads-txt .table-fields-row .um-rem-btn {
+  background-color: #d9534f;
+  border-color: #d9534f;
+}
+/* line 837, sass/main-admin.scss */
+.um-ads-txt .table-fields-row .um-rem-btn:hover {
+  color: #fff;
+  background-color: #c9302c;
+  border-color: #c12e2a;
+}
+/* line 846, sass/main-admin.scss */
+.um-ads-txt .um-ads-txt-file-preview {
+  background: #fff;
+}
+/* line 850, sass/main-admin.scss */
+.um-ads-txt .um-videowall-info {
+  margin-bottom: 30px;
+}
+/* line 855, sass/main-admin.scss */
+.um-ads-txt .um-ads-btn {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.25;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  padding: .5rem;
+  font-size: 12px;
+  border-radius: .25rem;
+  -webkit-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  color: #fff !important;
+  margin-right: 5px;
+  background-color: #333333;
+  color: white;
+  outline: none;
+}
+/* line 875, sass/main-admin.scss */
+.um-ads-txt .um-ads-btn:hover {
+  cursor: pointer;
+  background-color: #444444;
+}
+/* line 881, sass/main-admin.scss */
+.um-ads-txt .um-add-btn {
+  background-color: #5cb85c;
+  border-color: #5cb85c;
+  width: 80px;
+}
+/* line 885, sass/main-admin.scss */
+.um-ads-txt .um-add-btn:hover {
+  color: #fff;
+  background-color: #449d44;
+  border-color: #419641;
+}
+
+/* line 894, sass/main-admin.scss */
+.error-wrapper .error-msg {
+  width: 400px;
+  display: none;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+  text-align: center;
+}
